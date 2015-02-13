@@ -1,0 +1,16 @@
+{
+  "name": "chai-cookbook",
+  "version": "1.0.0",
+  "description": "Common tasks and problems constructing tests in Mocha/Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "testing"
+  ],
+  "author": "Adrian Lynch (adi_ady_ade@hotmail.com)",
+  "license": "MIT"
+}
