@@ -20,3 +20,10 @@ Or not:
 
 `expect([1,2,3]).to.deep.equal([1,2,3]);`
 
+Or not:
+
+`expect([1,2,3]).to.deep.equal([1,2,3,4]);`
+
+Note that this fails:
+
+`expect([1,2,3]).to.equal([1,2,3]);`
