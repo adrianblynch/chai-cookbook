@@ -24,4 +24,5 @@ expect({x: 1, y: 2, z: 3}).to.include.keys(['x', 'y'])
 
 // Compare all properties
 expect({x: 1, y: 2, z: 3}).to.have.keys(['x', 'y', 'z'])
-// expect({x: 1, y: 2, z: 3}).to.have.keys(['x', 'y', 'z', 'a']) // Fail
+//expect({x: 1, y: 2, z: 3}).to.have.keys(['x', 'y', 'z', 'a'])  // Fail
+//expect({x: 1, y: 2, z: 3, a: 4}).to.have.keys(['x', 'y', 'z']) // Fail

@@ -36,4 +36,10 @@ Note that this fails:
 
 `expect({x: 1, y: 2, z: 3}).to.include.key('x')`
 
-expect(response.result).to.have.keys(adminFields)
+### Expect object to contain multiple properties
+
+`expect({x: 1, y: 2, z: 3}).to.include.keys(['x', 'y'])`
+
+### Expect object to have only the given properties
+
+`expect({x: 1, y: 2, z: 3}).to.have.keys(['x', 'y', 'z'])`
