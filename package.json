@@ -12,5 +12,8 @@
     "testing"
   ],
   "author": "Adrian Lynch (adi_ady_ade@hotmail.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^2.0.0"
+  }
 }
