@@ -1,6 +1,6 @@
 # Chai Cookbook
 
-A problem-solution list built up alongside my knownledge of Mocha and Chai.
+A problem-solution list built up alongside my knowledge of Mocha and Chai.
 
 TODO: A quick note on what Mocha is and what Chai is.
 
